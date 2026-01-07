@@ -101,3 +101,7 @@ watchdog==6.0.0
 xgboost==3.0.0
 yarl==1.18.3
 zstandard==0.23.0
+streamlit-lottie
+streamlit
+requests
+
